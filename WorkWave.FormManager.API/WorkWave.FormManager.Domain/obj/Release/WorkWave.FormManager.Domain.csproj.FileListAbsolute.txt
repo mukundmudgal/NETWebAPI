@@ -1,0 +1,15 @@
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Domain\bin\Release\pdfix.dll
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Domain\bin\Release\pdfix64.dll
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Domain\bin\Release\WorkWave.FormManager.Domain.exe.config
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Domain\bin\Release\WorkWave.FormManager.Domain.exe
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Domain\bin\Release\WorkWave.FormManager.Domain.pdb
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Domain\bin\Release\WorkWave.FormManager.Core.exe
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Domain\bin\Release\WorkWave.FormManager.Infrastructure.exe
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Domain\bin\Release\WorkWave.FormManager.Core.pdb
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Domain\bin\Release\WorkWave.FormManager.Core.exe.config
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Domain\bin\Release\WorkWave.FormManager.Infrastructure.pdb
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Domain\bin\Release\WorkWave.FormManager.Infrastructure.exe.config
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Domain\obj\Release\WorkWave.FormManager.Domain.csprojAssemblyReference.cache
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Domain\obj\Release\WorkWave.FormManager.Domain.csproj.CopyComplete
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Domain\obj\Release\WorkWave.FormManager.Domain.exe
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Domain\obj\Release\WorkWave.FormManager.Domain.pdb

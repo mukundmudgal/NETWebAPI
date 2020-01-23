@@ -1,0 +1,7 @@
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Core\bin\Debug\WorkWave.FormManager.Core.exe.config
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Core\bin\Debug\WorkWave.FormManager.Core.exe
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Core\bin\Debug\WorkWave.FormManager.Core.pdb
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Core\obj\Debug\WorkWave.FormManager.Core.exe
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Core\obj\Debug\WorkWave.FormManager.Core.pdb
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Core\bin\Debug\pdfix.dll
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Core\bin\Debug\pdfix64.dll

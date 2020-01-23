@@ -1,0 +1,5 @@
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Test\bin\Debug\WorkWave.FormManager.Test.exe.config
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Test\bin\Debug\WorkWave.FormManager.Test.exe
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Test\bin\Debug\WorkWave.FormManager.Test.pdb
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Test\obj\Debug\WorkWave.FormManager.Test.exe
+C:\WorkWave\Workwave API\WorkWave.FormManager.API\WorkWave.FormManager.Test\obj\Debug\WorkWave.FormManager.Test.pdb

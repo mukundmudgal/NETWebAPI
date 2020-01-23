@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWave.FormManager.API", "WorkWave.FormManager.API\WorkWave.FormManager.API.csproj", "{EF9A9838-3FE8-4B36-AE2B-F23606A44460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWave.FormManager.Core", "WorkWave.FormManager.Core\WorkWave.FormManager.Core.csproj", "{F1B4218A-0AD0-454D-9474-767D11A0685A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWave.FormManager.Domain", "WorkWave.FormManager.Domain\WorkWave.FormManager.Domain.csproj", "{F7CF50DF-0B5C-4002-97EC-43BCEAD4E4AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWave.FormManager.Infrastructure", "WorkWave.FormManager.Infrastructure\WorkWave.FormManager.Infrastructure.csproj", "{A6700449-FDC2-4235-98D5-152140E1F229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWave.FormManager.Test", "WorkWave.FormManager.Test\WorkWave.FormManager.Test.csproj", "{72E2E2E6-6587-4FBE-BB61-407CAA06CE19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF9A9838-3FE8-4B36-AE2B-F23606A44460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9A9838-3FE8-4B36-AE2B-F23606A44460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9A9838-3FE8-4B36-AE2B-F23606A44460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9A9838-3FE8-4B36-AE2B-F23606A44460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B4218A-0AD0-454D-9474-767D11A0685A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B4218A-0AD0-454D-9474-767D11A0685A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B4218A-0AD0-454D-9474-767D11A0685A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B4218A-0AD0-454D-9474-767D11A0685A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7CF50DF-0B5C-4002-97EC-43BCEAD4E4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CF50DF-0B5C-4002-97EC-43BCEAD4E4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CF50DF-0B5C-4002-97EC-43BCEAD4E4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CF50DF-0B5C-4002-97EC-43BCEAD4E4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6700449-FDC2-4235-98D5-152140E1F229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6700449-FDC2-4235-98D5-152140E1F229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6700449-FDC2-4235-98D5-152140E1F229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6700449-FDC2-4235-98D5-152140E1F229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E2E2E6-6587-4FBE-BB61-407CAA06CE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E2E2E6-6587-4FBE-BB61-407CAA06CE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E2E2E6-6587-4FBE-BB61-407CAA06CE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E2E2E6-6587-4FBE-BB61-407CAA06CE19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63083BA0-0C4A-427D-AE1A-BD5668A8B9BC}
+	EndGlobalSection
+EndGlobal
